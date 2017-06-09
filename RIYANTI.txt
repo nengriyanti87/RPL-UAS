@@ -1,2 +1,5 @@
 Nama : Riyanti
 NPM : 1406109
+Jurusan : Teknik Informatika
+Kelas : Teknik Informatika B
+Kampus : STT-Garut
